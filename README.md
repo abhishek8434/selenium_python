@@ -107,6 +107,10 @@ pytest
 ```bash
 pytest tests/<test_file_name>.py
 ```
+### To generate report:
+```bash
+pip instal pytest-html
+```
 
 ### To generate a detailed report:
 ```bash
